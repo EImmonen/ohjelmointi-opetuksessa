@@ -1,6 +1,6 @@
 #Snap4Arduino asennus
 <br>
-**Huom! Asennathan ensin Arduinon ensin ![Arduino ohje](Arduino_ohje.md)**
+**Huom! Asennathan ensin Arduinon ensin [Arduino ohje](Arduino_ohje.md)**
 <br><br>
 
 ![](kuvat/Arduino_asennus1.JPG)
