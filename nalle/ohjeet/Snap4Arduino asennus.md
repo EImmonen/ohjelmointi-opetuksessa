@@ -2,6 +2,8 @@
 <br><br>
 
 ![](kuvat/Arduino_asennus1.JPG)
+Käynnistä Snap4Arduino-win32 asennusohjelma
+
 
 <br><br>
 ![](kuvat/Snap4Arduino_asennus1.JPG)
