@@ -1,4 +1,4 @@
 #Arduinon asennus
 
 
-![](kuvat/Arduino_asennus1.jpg)
+![](kuvat/Arduino_asennus1.JPG)
