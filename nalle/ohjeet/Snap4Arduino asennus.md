@@ -30,4 +30,6 @@ Käynnistä Snap4Arduino-win32 asennusohjelma
 
 ![](kuvat/Snap4Arduino_asennus7.JPG)
 <br>Paina "Finish"
+<br><br>
 
+Sitten kun olet asentanut Arduinon ja Snap4Arduino joudut säätämään asetuksia hieman [Ohje](Arduino firmata.md)
