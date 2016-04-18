@@ -1,5 +1,5 @@
 Jotta saamme nallet toimimaan niin joudumme asettaan StandardFirmatan Arduinosta
-
+[Ohje Arduinon asennukseen](Arduino ohje.md)
 <br>
 Menemme Arduinossa Files -> Examples -> Firmata -> StandardFirmata
 ![](kuvat/Arduino firmata.png)
