@@ -2,6 +2,8 @@
 <br>
 **Huom! Asennathan ensin Arduinon ensin [Arduino ohje](Arduino_ohje.md)**
 <br><br>
+Snap4Arduinon asennusohjelman saat ladattua [täältä:](https://github.com/opinsys/Snap4Arduino/releases/tag/v1.1)
+
 
 ![](kuvat/Arduino_asennus1.JPG)
 Käynnistä Snap4Arduino-win32 asennusohjelma
