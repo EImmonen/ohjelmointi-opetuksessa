@@ -1,4 +1,4 @@
-Jotta saamme nallet toimimaan niin joudumme asettaan StandardFirmatan Arduinosta
+Jotta saamme nallet toimimaan niin joudumme asettaan StandardFirmatan Arduinosta <br>
 [Ohje Arduinon asennukseen](Arduino ohje.md)
 <br>
 Menemme Arduinossa Files -> Examples -> Firmata -> StandardFirmata
