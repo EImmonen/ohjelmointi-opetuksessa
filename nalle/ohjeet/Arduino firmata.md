@@ -8,6 +8,7 @@ Menemme Arduinossa Files -> Examples -> Firmata -> StandardFirmata
 
 
 <br><br><br><br>
+Jonka jälkeen StandardFirmata aukeaa ja yhdistät nallen ja painat "Upload"
 ![](kuvat/Arduino firmata2.png)
 
 
