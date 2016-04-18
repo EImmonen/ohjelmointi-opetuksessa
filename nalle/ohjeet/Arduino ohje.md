@@ -29,6 +29,6 @@ Valitsemme minne asennetaan Arduino ja katsotaan mahtuuko tiedosto sijaintiin ja
 <br><br>
 ![](kuvat/Arduino_asennus5.JPG)
 <br>
-Sitten vaan odotamme että Arduino asentuu jonka jälkeen voit painaa "Close"
+Sitten vaan odotamme että Arduino asentuu jonka jälkeen voit painaa "Close" jonka jälkeen asennamme [Snap4Arduinon](Snap4Arduino asennus.md)
 
 
